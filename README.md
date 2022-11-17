@@ -1,7 +1,6 @@
-# dev-reading-list
+# Completed books (the year I read it)
 Books that I have read to improve my development skills.
 
-# Completed books (the year I read it)
 - Clean Code (2020)
 - Pragmatic Programmer (2020)
 - Test-Driven Development: By Example (2021)
