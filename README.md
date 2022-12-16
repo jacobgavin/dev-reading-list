@@ -8,9 +8,10 @@ Books that I have read to improve my development skills.
 - REST API Design Rulebook (2022)
 - User Stories Applied (2022)
 - Mob Programming: A Whole Team Approach (2022)
+- Apprenticeship Patterns, Guidance for the Aspiring Software Craftsman - by Dan H. Hover & Adewale Oshineye (2022)
 
 # Current read
-- Apprenticeship Patterns, Guidance for the Aspiring Software Craftsman - by Dan H. Hover & Adewale Oshineye
+- None
 
 # What I want to read
 - [The Psychology of Computer Programming](https://www.amazon.com/Psychology-Computer-Programming-Silver-Anniversary/dp/0932633420)
