@@ -11,7 +11,7 @@ Books that I have read to improve my development skills.
 - Apprenticeship Patterns, Guidance for the Aspiring Software Craftsman - by Dan H. Hover & Adewale Oshineye (2022)
 
 # Current read
-- None
+- 97 Things Every Programmer Should Know (2023)
 
 # What I want to read
 - [The Psychology of Computer Programming](https://www.amazon.com/Psychology-Computer-Programming-Silver-Anniversary/dp/0932633420)
