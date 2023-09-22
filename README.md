@@ -12,7 +12,7 @@ Books that I have read to improve my development skills.
 - 97 Things Every Programmer Should Know (2023)
 
 # Current read
-- Don't make me think, Revisited (2023)
+- Don't make me think, Revisited - by Steve Krug (2023)
 
 # What I want to read
 - [The Psychology of Computer Programming](https://www.amazon.com/Psychology-Computer-Programming-Silver-Anniversary/dp/0932633420)
